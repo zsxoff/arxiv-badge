@@ -94,6 +94,6 @@ Examples:
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-Unlicense-green.svg)](https://unlicense.org/)
+[![License: Unlicense](https://img.shields.io/badge/License-Unlicense-green.svg)](https://unlicense.org/)
 
 This project is licensed under the terms of the [Unlicense](https://unlicense.org/) (see [LICENSE](<https://github.com/zsxoff/arxiv-badge/blob/master/LICENSE>) file).
